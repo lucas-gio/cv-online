@@ -12,7 +12,8 @@
 
 ## ⌨️ Usage
 
-1. Open index.html with the explorer and enjoy!
+1. Download the zip archive https://github.com/lucas-gio/cv-online/archive/refs/heads/main.zip or clone the repo.
+2. Open index.html with the explorer and enjoy!
 
 
 ## 🏗 Project Status
