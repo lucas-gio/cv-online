@@ -15,6 +15,13 @@
 1. Download the zip archive https://github.com/lucas-gio/cv-online/archive/refs/heads/main.zip or clone the repo.
 2. Open index.html with the explorer and enjoy!
 
+## ⚙️ Applied technologies
+- [Bulma](https://bulma.io/) - Styling
+- [C3js](https://c3js.org/) - Graphics
+- [Font awesome](https://fontawesome.com/icons) - Icons
+- Html - Page
+- Css - More styling
+- Javascript - Graphics data
 
 ## 🏗 Project Status
 
