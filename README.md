@@ -1,4 +1,4 @@
-![](cover.jpeg)
+![](cover.jpg)
 
 # Online CV
 
