@@ -1,5 +1,7 @@
 ![](cover.jpg)
 
+[![CodeFactor](https://www.codefactor.io/repository/github/lucas-gio/cv-online/badge/main)](https://www.codefactor.io/repository/github/lucas-gio/cv-online/overview/main)
+
 # Online CV
 
 ### ✨ Demo
